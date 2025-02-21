@@ -13,7 +13,7 @@ STL per imprimir [aquí](https://github.com/maynej/Suport-per-placa-ED1/tree/mai
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Engranatges |![](Imatges/Engranatges.png) | [Engrenatges](STL/Engranatges.stl)
+Suport placa ED1 |![](Imatges/Engranatges.png) | [Engrenatges](STL/SuportED1.stl)
 
 ## Llicència
 
