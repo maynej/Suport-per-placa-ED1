@@ -21,6 +21,7 @@ Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-
 ## QR
 <div id="qrcode">
 
-<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FMecanismes-STEMFIE---Citilab&s=6&e=m" alt="Generador de Códigos QR Codes"/>
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FSuport-per-placa-ED1&s=6&e=m" alt="Generador de Códigos QR Codes"/>
 <br/><a href="https://www.codigos-qr.com/en/qr-code-generator/" target="_blank" id"qrgenerator">Qr Code Generator</a>
 </div>
+
