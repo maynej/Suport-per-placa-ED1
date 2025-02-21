@@ -1,14 +1,13 @@
 # Suport per placa ED1
 Aquest suport permet mantenir la placa ED1 en un angle de treball adequat per treballar 
 
-Aquest projecte ha estat realitzat pel [Citilab](https://www.citilab.eu/)    <img src="Imatges/LogoCitilab.jpeg" width="75" />
+La placa ED1 ha estat realitzada al [Citilab](https://www.citilab.eu/)    <img src="Imatges/LogoCitilab.jpeg" width="75" />
 
-## Lleva <img src="Imatges/Lleva2.jpg" width="200" />  Engranatge <img src="Imatges/Engranatge.jpg" width="200" /> 
-## Biela Manovella <img src="Imatges/Biela.jpg" width="200" />
+<img src="Imatges/Lleva2.jpg" width="200" />  
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/Doc). També en castellà.
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Suport-per-placa-ED1/tree/main/Doc). També en castellà.
 
-STL per imprimir [aquí](https://github.com/maynej/Mecanismes-STEMFIE---Citilab/tree/main/STL).
+STL per imprimir [aquí](https://github.com/maynej/Suport-per-placa-ED1/tree/main/STL).
 
 ## Suports 3D
   
