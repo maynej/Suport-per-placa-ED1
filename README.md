@@ -1,4 +1,4 @@
-# Suport per placa ED1
+# Suport per la placa ED1
 Aquest suport permet mantenir la placa ED1 en un angle de treball adequat per treballar 
 
 La placa ED1 ha estat realitzada al [Citilab](https://www.citilab.eu/)    <img src="Imatges/LogoCitilab.jpeg" width="75" />
