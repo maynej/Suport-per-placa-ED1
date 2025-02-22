@@ -5,7 +5,7 @@ La placa ED1 ha estat realitzada al [Citilab](https://www.citilab.eu/)    <img s
 
 <img src="Imatges/Lleva2.jpg" width="200" />  
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Suport-per-placa-ED1/tree/main/Doc). També en castellà.
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Suport-per-placa-ED1/tree/main/DOC). També en castellà.
 
 STL per imprimir [aquí](https://github.com/maynej/Suport-per-placa-ED1/tree/main/STL).
 
