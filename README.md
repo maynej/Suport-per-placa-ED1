@@ -19,10 +19,10 @@ Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_Suport.stl)
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Base Fantàstic |![](Imatges/BaseFantastic.png) | [Suport](STL/BaseFantastic_x1.stl)
-Roda |![](Imatges/Roda.png) | [Suport](STL/Roda_x2.stl)
-Lateral Dret |![](Imatges/LateralD.png) | [Suport](STL/Lateral_D_x1.stl)
-Lateral Esquerra |![](Imatges/LateralE.png) | [Suport](STL/Lateral_E_x1.stl)
+Base Fantàstic |![](Imatges/BaseFantastic.png) | [Base](STL/BaseFantastic_x1.stl)
+Roda |![](Imatges/Roda.png) | [Roda](STL/Roda_x2.stl)
+Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/Lateral_D_x1.stl)
+Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/Lateral_E_x1.stl)
 
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
