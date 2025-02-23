@@ -16,7 +16,7 @@ Descripció         | Imatge          | Arxius STL
 ------------- | ------------- | ------------- 
 Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_Suport.stl)
 
-## Fantàstic 3D
+## Robot Fantàstic i les peces 3D
 
 <img src="Imatges/Fantastic.jpg" width="200" />
   
