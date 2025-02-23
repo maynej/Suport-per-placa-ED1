@@ -1,4 +1,4 @@
-# Suport per la placa ED1 i una modificació per el Fantàstic
+# Suport per la placa ED1 i una modificació per el robot Fantàstic
 
 Aquest suport permet mantenir la placa ED1 en un angle de treball adequat per treballar 
 
