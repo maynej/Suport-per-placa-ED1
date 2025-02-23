@@ -21,7 +21,7 @@ Descripció         | Imatge          | Arxius STL
 ------------- | ------------- | ------------- 
 Base Fantàstic |![](Imatges/BaseFantastic.png) | [Base](STL/BaseFantastic_x1.stl)
 Roda |![](Imatges/Roda.png) | [Roda](STL/Roda_x2.stl)
-Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/Lateral_D_x1.stl)
+Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/Roda_x2.stl)
 Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/Lateral_E_x1.stl)
 
 ## Llicència
