@@ -3,7 +3,7 @@ Aquest suport permet mantenir la placa ED1 en un angle de treball adequat per tr
 
 La placa ED1 ha estat realitzada al [Citilab](https://www.citilab.eu/)    <img src="Imatges/LogoCitilab.jpeg" width="75" />
 
-<img src="Imatges/Lleva2.jpg" width="200" />  
+<img src="Imatges/ED1Suport.jpg" width="200" />  
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Suport-per-placa-ED1/tree/main/DOC). També en castellà.
 
@@ -16,6 +16,8 @@ Descripció         | Imatge          | Arxius STL
 Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_Suport.stl)
 
 ## Fantàstic 3D
+
+<img src="Imatges/Fantastic.jpg" width="200" />
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
