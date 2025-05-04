@@ -27,6 +27,16 @@ Roda |![](Imatges/Roda.png) | [Roda](STL/Roda_x2.stl)
 Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/LateralD_x1.STL)
 Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/LateralE_x1.STL)
 
+## Suport per Sensor d'ultrasons 
+
+<img src="Imatges/FantasticSensor.jpg" width="200" />
+  
+Descripció         | Imatge          | Arxius STL         
+------------- | ------------- | ------------- 
+Suport 1 |![](Imatges/SuportSensorUltrasonsSimetric1.png) | [Base](STL/SuportSensorUltrasonsSimetric1.stl)
+Suport 2 |![](Imatges/SuportSensorUltrasonsSimetric2.png) | [Base](STL/SuportSensorUltrasonsSimetric2.stl)
+
+
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
