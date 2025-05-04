@@ -4,7 +4,7 @@ Aquest suport permet mantenir la placa ED1 en un angle de treball adequat per tr
 
 La placa ED1 ha estat realitzada al [Citilab](https://www.citilab.eu/)    <img src="Imatges/LogoCitilab.jpeg" width="75" />
 
-<img src="Imatges/ED1Suport.jpg" width="200" />  
+<img src="Imatges/ED1Suport.jpg" width="300" />  
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Suport-per-placa-ED1/tree/main/DOC). També en castellà.
 
@@ -18,7 +18,7 @@ Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_Suport.stl)
 
 ## Robot Fantàstic i les peces 3D
 
-<img src="Imatges/Fantastic.jpg" width="200" />
+<img src="Imatges/Fantastic.jpg" width="300" />
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
@@ -29,12 +29,12 @@ Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/LateralE_x1.STL)
 
 ## Suport per Sensor d'ultrasons 
 
-<img src="Imatges/FantasticSensor.jpg" width="200" />
+<img src="Imatges/FantasticSensor.jpg" width="300" />
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Suport 1 |![](Imatges/SuportSensorUltrasonsSimetric1.png) | [Base](STL/SuportSensorUltrasonsSimetric1.stl)
-Suport 2 |![](Imatges/SuportSensorUltrasonsSimetric2.png) | [Base](STL/SuportSensorUltrasonsSimetric2.stl)
+Suport 1 |![](Imatges/SuportSensorUltrasonsSimetric1.png) | [Suport 1](STL/SuportSensorUltrasonsSimetric1.stl)
+Suport 2 |![](Imatges/SuportSensorUltrasonsSimetric2.png) | [Suport 2](STL/SuportSensorUltrasonsSimetric2.stl)
 
 
 ## Llicència
