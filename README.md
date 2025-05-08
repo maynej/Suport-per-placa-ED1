@@ -27,7 +27,7 @@ Roda |![](Imatges/Roda.png) | [Roda](STL/Roda_x2.stl)
 Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/LateralD_x1.STL)
 Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/LateralE_x1.STL)
 
-## Suport per Sensor d'ultrasons 
+## Suport per Sensor d'ultrasons per detectar obstacles
 
 <img src="Imatges/FantasticSensor.jpg" width="300" />
   
@@ -36,6 +36,13 @@ Descripció         | Imatge          | Arxius STL
 Suport 1 |![](Imatges/SuportSensorUltrasonsSimetric1.png) | [Suport 1](STL/SuportSensorUltrasonsSimetric1.stl)
 Suport 2 |![](Imatges/SuportSensorUltrasonsSimetric2.png) | [Suport 2](STL/SuportSensorUltrasonsSimetric2.stl)
 
+## Suport per Sensor de IR per fer el seguir línies 
+
+<img src="Imatges/SensorIR.jpg" width="300" />
+  
+Descripció         | Imatge          | Arxius STL         
+------------- | ------------- | ------------- 
+Suport IR |![](Imatges/SuportSensorIR.png) | [Suport IR](STL/SuportSensorIR_Torretes.stl)
 
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
