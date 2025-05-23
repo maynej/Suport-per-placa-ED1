@@ -14,8 +14,10 @@ STL per imprimir [aquí](https://github.com/maynej/Suport-per-placa-ED1/tree/mai
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_SuportV2.stl)
-Suport placa 8 Neopixel |![](Imatges/SuportNeopixel.png) | [Suport](STL/SuportNeopixel.stl)
+Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport ED1](STL/ED1_SuportV2.stl)
+Suport placa 8 Neopixel |![](Imatges/SuportNeopixel.png) | [Suport Neopixel](STL/SuportNeopixel.stl)
+
+<img src="Imatges/ED1Neopixel.jpg" width="300" />
 
 ## Robot Fantàstic i les peces 3D
 
@@ -27,6 +29,8 @@ Base Fantàstic |![](Imatges/BaseFantastic.png) | [Base](STL/BaseFantastic_x1.st
 Roda |![](Imatges/Roda.png) | [Roda](STL/Roda_x2.stl)
 Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/LateralD_x1.STL)
 Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/LateralE_x1.STL)
+
+<img src="Imatges/FantasticNeopixel.jpg" width="300" />
 
 ## Suport per Sensor d'ultrasons per detectar obstacles
 
@@ -51,7 +55,7 @@ Suport IR |![](Imatges/SuportSensorIR.png) | [Suport IR](STL/SuportSensorIR_Torr
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Suport placa 8 Neopixel |![](Imatges/SuportNeopixel.png) | [Suport](STL/SuportNeopixel.stl)
+Suport placa 8 Neopixel |![](Imatges/SuportNeopixel.png) | [Suport Neopixel](STL/SuportNeopixel.stl)
 
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
