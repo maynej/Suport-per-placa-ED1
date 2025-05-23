@@ -30,8 +30,6 @@ Roda |![](Imatges/Roda.png) | [Roda](STL/Roda_x2.stl)
 Lateral Dret |![](Imatges/LateralD.png) | [Lateral D](STL/LateralD_x1.STL)
 Lateral Esquerra |![](Imatges/LateralE.png) | [Lateral E](STL/LateralE_x1.STL)
 
-<img src="Imatges/FantasticNeopixel.jpg" width="300" />
-
 ## Suport per Sensor d'ultrasons per detectar obstacles
 
 <img src="Imatges/FantasticSensor.jpg" width="300" />
@@ -51,7 +49,7 @@ Suport IR |![](Imatges/SuportSensorIR.png) | [Suport IR](STL/SuportSensorIR_Torr
 
 ## Suport per placa 8 Neopixel
 
-<img src="Imatges/8Neopixel.jpg" width="300" />
+<img src="Imatges/FantasticNeopixel.jpg" width="300" />
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
