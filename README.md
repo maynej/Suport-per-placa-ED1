@@ -14,7 +14,8 @@ STL per imprimir [aquí](https://github.com/maynej/Suport-per-placa-ED1/tree/mai
   
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
-Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_Suport.stl)
+Suport placa ED1 |![](Imatges/SuportED1.png) | [Suport](STL/ED1_SuportV2.stl)
+Suport placa 8 Neopixel |![](Imatges/SuportNeopixel.png) | [Suport](STL/SuportNeopixel.stl)
 
 ## Robot Fantàstic i les peces 3D
 
@@ -43,6 +44,14 @@ Suport 2 |![](Imatges/SuportSensorUltrasonsSimetric2.png) | [Suport 2](STL/Supor
 Descripció         | Imatge          | Arxius STL         
 ------------- | ------------- | ------------- 
 Suport IR |![](Imatges/SuportSensorIR.png) | [Suport IR](STL/SuportSensorIR_Torretes.stl)
+
+## Suport per placa 8 Neopixel
+
+<img src="Imatges/8Neopixel.jpg" width="300" />
+  
+Descripció         | Imatge          | Arxius STL         
+------------- | ------------- | ------------- 
+Suport placa 8 Neopixel |![](Imatges/SuportNeopixel.png) | [Suport](STL/SuportNeopixel.stl)
 
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
